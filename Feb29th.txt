@@ -1,0 +1,19 @@
+Today was February 29th and it was the first day of class since I have been studying 
+almost a month and a half of Javascript and about 2 weeks of Jave since the last
+I have tested.  
+
+I am a little frustrated as I am torn between wanting to learn new techniques in
+Java so I can pass the upcoming test we are going to have.  I find myself wanting
+to practice more object oriented logic than dealing with learning the html and 
+the css over again.  I think it is because I have so much riding on this program
+and I do not want to fail again.  I know failing is part of the process of becoming
+a programmer but I need to start moving forward for my own state of mind.
+
+Today I did learn a lot more about GitHub so it was very beneficial.  I also learned
+more about key/value pairs in Java while my computer was charging in the other room
+during the rest of the github practice.  I will keep this folder updated everyday
+with the new concepts that I learn and it will help me keep track of my progress
+better in the future.
+
+Justin DiBlasi
+Monday--February 29th--2016
