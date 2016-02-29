@@ -1,5 +1,5 @@
 Today was February 29th and it was the first day of class since I have been studying 
-almost a month and a half of Javascript and about 2 weeks of Jave since the last
+almost a month and a half of Javascript and about 2 weeks of Java since the last time 
 I have tested.  
 
 I am a little frustrated as I am torn between wanting to learn new techniques in
