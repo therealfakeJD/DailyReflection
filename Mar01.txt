@@ -1,0 +1,18 @@
+Today we had a more in depth lecture about HTML and CSS.  I feel like this lecture
+was way more in depth than the first time I had it last December.  I learned how
+to create a new repository in github that would double as a host for a personal
+website that I could edit in the future as I learn new ways to change it.  I am
+also trying to continue to learn new ways to program in Java.
+
+I am looking forward to being able to start a new project in Java now that I 
+have to means to actually ask questions that can point me in the right direction.
+At the moment I am trying to find a good website to teach me how to come up with
+the logic to solve Java coding challenges.  I can do basic programming in Java and
+I just need to learn techniques to start programming for how users will interact
+with the programs.  I do need to start getting more rest though because I notice
+that I have been running out of energy to interact with people half way through 
+the day.
+
+Justin DiBlasi
+March 1st 2016
+
